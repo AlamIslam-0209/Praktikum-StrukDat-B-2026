@@ -9,3 +9,4 @@ p3 = MyClass() # membuat objek p3 dari class MyClass
 print(p1.x) # Output: 5
 print(p2.x) # Output: 5
 print(p3.x) # Output: 5
+
